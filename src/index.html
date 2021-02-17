@@ -4,11 +4,49 @@
     <meta charset="utf-8">
     <title>Caesar Cipher</title>
     <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Zetta&display=swap" rel="stylesheet">
   </head>
   <body>
-    <div id="root">
-      <h1>Hello world!</h1>
+    <div id="contenedor">
+      <h1>CifraText</h1><br>
+      <h2>Asegura tus ideas!</h2><br>
+      <table class="default">
+        <tr>
+          <td>
+            Para cifrar:<br>
+            1. Escribe tu idea en el 1er recuadro.<br>
+            2. Selecciona un número de llave del 1 al 30.<br> 
+            3. Da click en el botón "Cifrar!".<br>
+            4. Tu mensaje cifrado aparecerá en el 2do recuadro.<br> 
+          </td>
+          <td>
+            Para Descifrar:<br>
+            1. Escribe tu mensaje cifrado en el 2do recuadro.<br>
+            2. Selecciona tu número de llave para descifrar.<br> 
+            3. Da click en el botón "Descifrar!".<br>
+            4. Tu mensaje cifrado aparecerá en el 1er recuadro.<br> 
+          </td>
+        </tr>   
+      </table>
+      <div>
+        <h4>
+          Digita un N° del 1 al 33.<br>
+          Este N° será tu llave
+        </h4>
+        <input type="number" id="n1" min="1" max="33" placeholder="N°"  width="63px" height="45px">
+        <br>
+        <br>
+        <h5 class="m1">Mensaje sin cifrar</h5>
+        <textarea id="t1" placeholder="Escribe lo que quieres cifrar" style="width : 448px"></textarea>
+        <button id="b1" >Cifrar</button>
+        <h5 class="m2">Mensaje cifrado</h5>
+        <textarea id="t2" placeholder="Escribe lo que quieres descifrar" style="width : 448px"></textarea>
+        <button id="b2">Descifrar</button>
+      </div>
+      <div id="root">
+      </div>
+      <script src="index.js" type="module"></script>
     </div>
-    <script src="index.js" type="module"></script>
   </body>
 </html>

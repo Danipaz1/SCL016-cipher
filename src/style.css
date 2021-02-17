@@ -1,0 +1,266 @@
+
+
+* {
+  margin-left: 4%;
+  padding: 0%;
+}
+
+html {
+  background: url(cipher.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#contenedor {
+  width: 1024px;
+  margin-left: 20%;
+  margin-right: 0%;
+  justify-content:center;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  position: absolute;
+  width: 844px;
+  height: 58px;
+  left: 242px;
+  top: 17px;
+  
+  font-family: Lexend Zetta;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 75px;
+  text-align: center;
+  
+  color: #F9F9F9;
+}
+
+h2 {
+  position: absolute;
+  width: 814px;
+  height: 41px;
+  left: 257px;
+  top: 90px;
+  
+  font-family: Lexend Zetta;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 31px;
+  text-align: center;
+  
+  color: #F9F9F9;
+  
+}
+
+table {
+  position: absolute;
+  width: 1250px;
+  height: 173px;
+  left: 80px;
+  top: 160px;
+  
+  font-family: Lexend Zetta;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 25px;
+  text-align: justify;
+  
+  color: #F9F9F9;
+}
+
+body {
+  position: relative;
+  width: 1420px;
+  height: 800px;
+
+  
+  background: url('cipher.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(0,0,0,0.7371323529411764) 0%);
+}
+
+h4 {
+  position: absolute;
+  width: 370px;
+  height: 45px;
+  left: 684px;
+  top: 300px;
+  
+  font-family: Lexend Zetta;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: justify;
+  
+  color: #F9F9F9;
+}
+
+.m1 {
+  position: absolute;
+  width: 604px;
+  height: 28px;
+  left: 87px;
+  top: 360px;
+  
+  font-family: Lexend Zetta;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: justify;
+  
+  color: #F9F9F9;
+}
+
+.m2 {
+  position: absolute;
+  width: 615px;
+  height: 30px;
+  left: 780px;
+  top: 360px;
+  
+  font-family: Lexend Zetta;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: justify;
+  
+  color: #F9F9F9;
+}
+
+#n1 {
+  position: absolute;
+  width: 63px;
+  height: 45px;
+  left: 615px;
+  top: 326px;
+  font-size: 20px;
+  padding: 10px 5px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  
+  background: #C4C4C4;;
+}
+
+#t1 {
+  position: absolute;
+  width: 448px;
+  height: 183px;
+  left: 87px;
+  top: 427px;
+  font-size: 20px;
+  resize: none;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  
+  background: #C4C4C4;;
+}
+
+#t2 {
+  position: absolute;
+  width: 448px;
+  height: 183px;
+  left: 780px;
+  top: 427px;
+  font-size: 20px;
+  resize: none;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  
+  background: #C4C4C4;;
+}
+
+#scifrar {
+  position: absolute;
+  width: 604px;
+  height: 28px;
+  left: 87px;
+  top: 399px;
+  
+  font-family: Lexend Zetta;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: justify;
+  
+  color: #F9F9F9;
+}
+
+#cifrado {
+  position: absolute;
+  width: 615px;
+  height: 30px;
+  left: 780px;
+  top: 399px;
+  
+  font-family: Lexend Zetta;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: justify;
+  
+  color: #F9F9F9;
+}
+
+#b1 {
+  position: absolute;
+  width: 237px;
+  height: 47px;
+  left: 182px;
+  top: 619px;
+  border-radius: 5px;
+  background-color: rgb(84, 199, 228);
+  font-family: Lexend Zetta;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 25px;
+  text-align: center;
+
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+#b2 {
+  position: absolute;
+  width: 237px;
+  height: 47px;
+  left: 885px;
+  top: 619px;
+  border-radius: 5px;
+  background-color: rgb(84, 199, 228);
+  font-family: Lexend Zetta;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 25px;
+  text-align: center;
+
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+
+
+
+
+
+
+  
