@@ -1,10 +1,18 @@
-1) Quiénes son las principales usuarias del producto.
-2) Cuáles son los objetivos que estas usuarias pueden conseguir al usar tu producto.
-3) Cómo crees que el producto que estás creando está resolviendo sus necesidades.
 
-                            PROYECTO CIPHER "CifraText"
 
-1) Principales usuarios y usuarias
+# PROYECTO CIPHER "CifraText"
+
+* [1. Introducción ](#1-Introducción)
+* [2. Usuarios ](#2-Usuarios)
+*  [3. Objetivo ](#3-Objetivo)Cuáles son los objetivos que estas usuarias pueden conseguir al usar tu producto.
+*  [4. Justificación ](#4-Justificación)Cómo crees que el producto que estás creando está resolviendo sus necesidades.
+
+## 1. Introducción
+
+CifraText es una página en la que se pueden cifrar y descifrar mensajes con un número único que sirve como llave.
+Para esto, tanto emisor como receptor deben saber dicho número.    
+
+## 2. Usuarios
 
 Integrantes de equipos de trabajo que tengan ideas originales acerca de sus proyectos
 y necesiten cifrar sus ideas. De este modo, podrán compartir sus mensajes de forma 
@@ -14,7 +22,7 @@ Aunque CifraText está pensado idealmente para equipos de trabajo, los usuarios 
 que no posean estas características también podrán usar esta herramienta si desean asegurar
 un mensaje. 
 
-2) Objetivos a conseguir de los usuarios y usuarias
+## 3. Objetivo
 
 Nuestros usuarios y usuarias podrán tener un espacio seguro y anónimo para asegurar
 sus ideas, conseguirán:
@@ -29,7 +37,7 @@ d) Descifrar el mensaje cifrado, hecho que sucederá solo al seleccionar el núm
    de llave asignado al momento de cifrarlo.  
 e) Realizar el proceso cuantas veces lo deseen. 
 
-3) Resolución de necesidades
+## 4. Justificación
 
 Este producto está pensado para quienes necesiten una forma segura de compartir
 sus ideas, sin sentir que están expuestas a que cualquiera pueda acceder a su contenido
@@ -41,5 +49,5 @@ compartirlos tranquilamente, de manera que eviten riesgos de robos y plagios. Ad
 "CifraText" también se puede extrapolar a otros ámbitos, como grupos académicos, usurios y
 usuarias con fines personales, etc. 
 
-En resumen, el ofrecido puede funcionar como una herramienta de comunicación, que permitirá 
+En resumen, el producto ofrecido puede funcionar como una herramienta de comunicación, que permitirá 
 cifrar el mensaje a compartir, lo que otorgará confianza y seguridad. 

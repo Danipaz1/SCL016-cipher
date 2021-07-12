@@ -1,12 +1,11 @@
 
 
 * {
-  margin-left: 4%;
-  padding: 0%;
+  margin: auto;
 }
 
 html {
-  background: url(cipher.png) no-repeat center center fixed;
+  background: url('./cipher.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -14,9 +13,7 @@ html {
 }
 
 #contenedor {
-  width: 1024px;
   margin-left: 20%;
-  margin-right: 0%;
   justify-content:center;
   justify-content: center;
   align-items: center;
