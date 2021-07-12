@@ -12,7 +12,7 @@
 CifraText es una página en la que se pueden cifrar y descifrar mensajes con un número único que sirve como llave.
 Para esto, tanto emisor como receptor deben saber dicho número. 
 
-![cifraText](./cifratext.png)
+![cifratext](https://github.com/Danipaz1/SCL016-cipher/tree/master/src/cifratext.png)
 
 ## 2. Usuarios
 
