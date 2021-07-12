@@ -4,13 +4,15 @@
 
 * [1. Introducción ](#1-Introducción)
 * [2. Usuarios ](#2-Usuarios)
-*  [3. Objetivo ](#3-Objetivo)Cuáles son los objetivos que estas usuarias pueden conseguir al usar tu producto.
-*  [4. Justificación ](#4-Justificación)Cómo crees que el producto que estás creando está resolviendo sus necesidades.
+*  [3. Objetivo ](#3-Objetivo)
+*  [4. Justificación ](#4-Justificación)
 
 ## 1. Introducción
 
 CifraText es una página en la que se pueden cifrar y descifrar mensajes con un número único que sirve como llave.
-Para esto, tanto emisor como receptor deben saber dicho número.    
+Para esto, tanto emisor como receptor deben saber dicho número. 
+
+![cifratext](https://./cifraText.png)
 
 ## 2. Usuarios
 
